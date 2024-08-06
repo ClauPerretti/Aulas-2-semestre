@@ -1,0 +1,31 @@
+{
+  "name": "aula1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "acorn": "^8.12.1",
+    "acorn-walk": "^8.3.3",
+    "arg": "^4.1.3",
+    "create-require": "^1.1.1",
+    "diff": "^4.0.2",
+    "make-error": "^1.3.6",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4",
+    "undici-types": "^6.13.0",
+    "v8-compile-cache-lib": "^3.0.1",
+    "yn": "^3.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "um": "ts-node ./src/exercicio1",
+    "dois": "ts-node ./src/exercicio2",
+    "tres": "ts-node ./src/exercicio3",
+    "quatro": "ts-node ./src/exercicio4",
+    "cinco": "ts-node ./src/exercicio5",
+    "seis": "ts-node ./src/exercicio6"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
